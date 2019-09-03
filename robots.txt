@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uanahseac.nicoleevans.design/sitemap.xml
